@@ -14,6 +14,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+  <span>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/REACT/61DAFB/61DAFB" />
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
+  </span>
 </div>
 <!--
 **nanyoojinee/nanyoojinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
