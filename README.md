@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujin'sSpace!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yujin's<br/>Space!&fontSize=90" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello,+I'm+Yujin+こんにちは+ユジンです" alt="Typing SVG" /></a>
 <!--
 **nanyoojinee/nanyoojinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
