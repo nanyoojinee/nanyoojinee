@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 <!--
 **nanyoojinee/nanyoojinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
