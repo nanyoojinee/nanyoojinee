@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F7E281&background=FDFFB900&center=true&vCenter=true&random=false&width=435&lines=Hello,+I'm+Yujin+ +こんにちは+ユジンです" alt="Typing SVG" /></a>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=nanyoojinee&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
