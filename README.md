@@ -16,10 +16,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
   <span>
     <img height="32" width="32" src="https://cdn.simpleicons.org/REACT/61DAFB/61DAFB" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/TYPESCRIPT/61DAFB/61DAFB" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/PYTHON/61DAFB/61DAFB" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/JAVASCRIPT/61DAFB/61DAFB" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/HTML/61DAFB/61DAFB" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/TYPESCRIPT/3178C6" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/PYTHON/3776AB" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/JAVASCRIPT/F7DF1E" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/E34F26/E34F26" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/MYSQL/4479A1" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/NEXTJS/4479A1" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/1572B6" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/STYLED-COMPONENTS/DB7093" />
     
 
   </span>
