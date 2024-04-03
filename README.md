@@ -11,7 +11,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-<img src="profile-green-animate.svg" alt="Profile Animation" />
+![](./profile-3d-contrib/profile-green-animate.svg)
 <!--
 **nanyoojinee/nanyoojinee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
