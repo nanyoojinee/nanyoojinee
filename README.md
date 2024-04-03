@@ -12,6 +12,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
     <span>
       <img height="32" width="32" src="https://cdn.simpleicons.org/REACT/61DAFB/61DAFB" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/TYPESCRIPT/3178C6" />
@@ -26,7 +27,6 @@
       <img height="32" width="32" src="https://cdn.simpleicons.org/SLACK/4A154B" /> 
       <img height="32" width="32" src="https://cdn.simpleicons.org/MONGODB/47A248" /> 
     </span>
-  </picture>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 <!--
