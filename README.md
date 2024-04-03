@@ -17,13 +17,14 @@
   <span>
     <img height="32" width="32" src="https://cdn.simpleicons.org/REACT/61DAFB/61DAFB" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/TYPESCRIPT/3178C6" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/REDUX/764ABC" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/PYTHON/3776AB" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/JAVASCRIPT/F7DF1E" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/E34F26/E34F26" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/MYSQL/4479A1" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/NEXT.JS/4479A1" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/E34F26/E34F26" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/1572B6" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/REDUX/764ABC" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/SOCKET.IO/010101" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/MYSQL/4479A1" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/SLACK/4A154B" /> 
     <img height="32" width="32" src="https://cdn.simpleicons.org/MONGODB/47A248" /> 
 
