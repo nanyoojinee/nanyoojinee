@@ -23,8 +23,8 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/MYSQL/4479A1" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/NEXT.JS/4479A1" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/1572B6" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/STYLED-COMPONENTS/DB7093" />
-    
+    <img height="32" width="32" src="https://cdn.simpleicons.org/REDUX/764ABC" />
+    <img height="32" width="32" src="https://cdn.simpleicons.org/SLACK/4A154B" /> 
 
   </span>
 </div>
